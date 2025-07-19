@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE.png" alt="Yunus Emre Gültepe - AI & Software Engineer Banner"/>
+  <img height=600vw src="GithubProfileBanner.png" alt="Yunus Emre Gültepe - AI & Software Engineer Banner"/>
 </p>
 
 <!-- Introduction -->
