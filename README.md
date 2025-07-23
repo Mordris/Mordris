@@ -35,6 +35,19 @@ Here is a showcase of my work, from autonomous AI agents and real-time data pipe
   <tbody>
     <tr>
       <td>
+        <a href="https://github.com/Mordris/autonomous-sre-agent"><strong>AIDA - Autonomous Incident Diagnostic Agent</strong></a>
+        <br />
+        <em>An end-to-end MLOps system for an autonomous SRE agent that diagnoses production alerts, learns from feedback, and improves over time via a fine-tuning pipeline.</em>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/LangChain-8A2BE2?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+        <img src="https://img.shields.io/badge/MLflow-0A64CB?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+        <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+      </td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://github.com/Mordris/CodeScribe-AI-Agent"><strong>CodeScribe - AI Code Review Agent</strong></a>
         <br />
         <em>An autonomous AI agent that integrates with GitHub to provide intelligent, RAG-powered code reviews and interactive refactoring suggestions on Pull Requests.</em>
