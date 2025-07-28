@@ -48,7 +48,7 @@ Here is a showcase of my work, from autonomous AI agents and real-time data pipe
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/Mordris/real-time-recommendation-engine"><strong>Project Nebula - Real-Time Recommendation Engine</strong></a>
+        <a href="https://github.com/Mordris/real-time-recommendation-engine"><strong>Nebula - Real-Time Recommendation Engine</strong></a>
         <br />
         <em>A real-time recommendation engine that reacts to user interactions in seconds, using a stateful stream processor (Bytewax) and a large-scale vector database (Milvus).</em>
       </td>
