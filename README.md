@@ -48,6 +48,19 @@ Here is a showcase of my work, from autonomous AI agents and real-time data pipe
     </tr>
     <tr>
       <td>
+        <a href="https://github.com/Mordris/real-time-recommendation-engine"><strong>Project Nebula - Real-Time Recommendation Engine</strong></a>
+        <br />
+        <em>A real-time recommendation engine that reacts to user interactions in seconds, using a stateful stream processor (Bytewax) and a large-scale vector database (Milvus).</em>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Bytewax-FF69B4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjU2IiBoZWlnaHQ9IjI1NiIgdmlld0JveD0iMCAwIDI1NiAyNTYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3Qgd2lkdGg9IjI1NiIgaGVpZ2h0PSIyNTYiIGZpbGw9IiNGRjY5QjQiLz48cGF0aCBkPSJtMTQ3LjUgMTQ3LjUgMTMuNSA0My41aDI1LjVsLTE0LjUtNDguNWgtMjQuNW0yNC41IDUuNSA4IDE5LjVjMi4zIDYuMyA0LjUgMTEuOCA1LjYgMTUuM2gyLjNjMS4zLTMuNSAzLjUtOS4yIDUuOC0xNS41bDcuNy0xOS4zaDIzLjVsLTIwLjQgNjZoLTIyLjRsLTguOC0yMy40Yy0xLjgtNS0zLjUtMTAuNC00LjQtMTQuN2gtMS44Yy0xIDQuMy0yLjYgOS43LTQuMyAxNC44bC04LjcgMjMuM2gtMjIuM2wtMjAuMi02Nmg0MC42bDEzLjYgNDMuNW0tOTYtNDkuNWgxOS4xbDIyLjcgNjZoLTIwbC0xMy4zLTQwLjQtMTMuMSA0MC40aC0xOS44bDIxLjgtNjZtNzIgMGgyMGw5LjUgMjkuMmMxLjcgNS4zIDMuMyAxMC4yIDQuNSAxNC40aDEuOWMxLjItNC4yIDIuOC04LjkgNC41LTE0LjJsOS42LTI5LjRoMjAuM2wtMjIuNSA2NmgtaDE5LjhsLTIyLjUtNjYiIGZpbGw9IiNmZmYiLz48L3N2Zz4=" alt="Bytewax"/>
+        <img src="https://img.shields.io/badge/Milvus-00ADEF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEyIDBDNS4zNzMgMCAwIDUuMzczIDAgMTJzNS4zNzMgMTIgMTIgMTIgMTItNS4zNzMgMTItMTJTMTguNjI3IDAgMTIgMHptLjI0IDEuNDQ4YzEuMjA5IDAgMi4zNDQuMzc2IDMuMjgzIDEuMDEyYTQuNzY3IDQuNzY3IDAgMCAxIDEuMzg1IDEuNTQ1Yy4zNzUuNjE4LjU4IDEuMzE1LjU4IDIuMDI3djEuMjg0aC0yLjM0di0xLjI4NGMwLS41MS0uMTM0LS45NDItLjQwMy0xLjI5NmEtMS45MyAxLjkzIDAgMCAwLTEuNTQ1LS42NTdjLS44OTMgMC0xLjU4LjI5LTEuOTQzLjc3YS0yLjMzIDIuMzMgMCAwIDAtLjQ5IDEuNTA2djYuNDQ1YzAgLjY1OC4xNjcgMS4xODQuNDkgMS41MDZhMi4wMyAyLjAzIDAgMCAwIDEuOTQzLjc3YzEuMDAzIDAgMS42NDktLjM0NSAxLjkxMy0xLjA0N3YtMy4wNzRoMi4zNHYzLjA3NGMwIC43MTItLjIwNSAxLjQxLS41OCAyLjAyN2ExMi4xMyAxMi4xMyAwIDAgMS0xLjM4NSAxLjU0NWMtLjkzOS42MzYtMi4wNzQgMS4wMTItMy4yODMgMS4wMTItMS42MiAwLTMuMDM1LS40MzYtNC4xNTMtMS4zMDZhNi4xMzcgNi4xMzcgMCAwIDEtMS41NzQtMi40NDJjLS4zMTQtMS4wMy0uNDk5LTIuMTUtLjQ5OS0zLjM1N1Y3LjcyM2MwLTEuMjA3LjE4NS0yLjMyNy40OTktMy4zNTdhNS41MTUgNS41MTUgMCAwIDEgMS41NzQtMi40NDJjMS4xMTgtLjg3IDMuNTMzLTEuMzA2IDQuMTUzLTEuMzA2ek00LjQ4NSA1LjQxNmgzLjM5OXYxMy4xNjdINC40ODVWNS40MTZ6IiBmaWxsPSIjZmZmIi8+PC9zdmc+" alt="Milvus"/>
+        <img src="https://img.shields.io/badge/Redpanda-FF2828?style=for-the-badge&logo=redpanda&logoColor=white" alt="Redpanda"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+      </td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://github.com/Mordris/CodeScribe-AI-Agent"><strong>CodeScribe - AI Code Review Agent</strong></a>
         <br />
         <em>An autonomous AI agent that integrates with GitHub to provide intelligent, RAG-powered code reviews and interactive refactoring suggestions on Pull Requests.</em>
