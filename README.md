@@ -35,6 +35,19 @@ Here is a showcase of my work, from autonomous AI agents and real-time data pipe
   <tbody>
     <tr>
       <td>
+        <a href="https://github.com/Mordris/next-gen-support-agent-blueprint"><strong>Next-Gen Support Agent Blueprint</strong></a>
+        <br />
+        <em>An end-to-end, self-correcting customer support agent that uses a reasoning loop (LangGraph), RAG, and intelligent tools to handle complex user queries.</em>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/LangGraph-9C27B0?style=for-the-badge" alt="LangGraph"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+      </td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://github.com/Mordris/autonomous-sre-agent"><strong>AIDA - Autonomous Incident Diagnostic Agent</strong></a>
         <br />
         <em>An end-to-end MLOps system for an autonomous SRE agent that diagnoses production alerts, learns from feedback, and improves over time via a fine-tuning pipeline.</em>
