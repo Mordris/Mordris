@@ -179,3 +179,8 @@ Here is a showcase of my work, from autonomous AI agents and real-time data pipe
 
 ### 📊 My GitHub Stats
 
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mordris&show_icons=true&theme=radical&count_private=true&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mordris&layout=compact&theme=radical&hide_border=true" />
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mordris&theme=radical&hide_border=true" />
+</p>
