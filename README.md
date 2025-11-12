@@ -19,6 +19,31 @@
   </a>
 </p>
 
+<!-- GitHub Stats Section -->
+<!-- GitHub Stats Section -->
+<h2 align="center">My GitHub Stats 📊</h2>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Mordris&theme=radical&show_icons=true&hide_border=true&count_private=true" 
+           alt="GitHub Stats" 
+           width="420" height="180" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mordris&theme=radical&show_icons=true&hide_border=true&layout=compact" 
+           alt="Most Used Languages" 
+           width="420" height="180" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com?user=Mordris&theme=radical&hide_border=true" 
+           alt="GitHub Streak" 
+           width="850" height="180" />
+    </td>
+  </tr>
+</table>
 ---
 
 ### 🚀 Featured Projects
