@@ -20,7 +20,6 @@
 </p>
 
 <!-- GitHub Stats Section -->
-<!-- GitHub Stats Section -->
 <h2 align="center">My GitHub Stats 📊</h2>
 
 <table align="center">
@@ -44,7 +43,6 @@
     </td>
   </tr>
 </table>
----
 
 ### 🚀 Featured Projects
 
