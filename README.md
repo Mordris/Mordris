@@ -168,7 +168,7 @@ Here is a showcase of my work, from autonomous AI agents and real-time data pipe
 
 ### 🛠️ My Core Tech Stack
 
--   **AI & MLOps:** LangChain, LLM Fine-Tuning (LoRA), RAG, Vector Databases (ChromaDB), MLflow, PyTorch, TensorFlow, Scikit-learn
--   **DevOps & Cloud:** Kubernetes, Docker, GitOps (Argo CD), CI/CD (GitHub Actions), Prometheus, Grafana, Terraform (Basics), GCP, AWS
--   **Data & Streaming:** Apache Flink, Redpanda (Kafka-compatible), PostgreSQL, Redis, Celery
--   **Backend & Languages:** Python, FastAPI, TypeScript, Go (Learning), SQL
+-   **AI & MLOps:** LangChain / LangGraph, Microsoft Agent Framework, RAG, Vector Databases, MLflow, PyTorch, TensorFlow, Scikit-learn
+-   **DevOps & Cloud:** Kubernetes, Docker, GitOps (Argo CD), CI/CD (GitHub Actions), Prometheus, Grafana, Terraform (Basics), AWS and Azure services (Foundry, Azure AI)
+-   **Data & Streaming:** Redis, Redpanda, Flink, PostgreSQL, Redis, Celery
+-   **Backend & Languages:** Python, TypeScript, Dotnet (basics), SQL
