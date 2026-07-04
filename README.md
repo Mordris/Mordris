@@ -6,7 +6,7 @@
 <!-- Introduction -->
 <h1 align="center">Hi, I'm Yunus Emre Gültepe 👋</h1>
 <p align="center">
-  AI Engineer building autonomous multi-agent systems and the production platforms that run them. At Ayasofyazilim, I lead development on Agent Hub (a multi-agent platform built on the Model Context Protocol) and our document-intelligence platform. Outside of work, I'm building Puzzlebop, a real-time multiplayer mobile game launching on Google Play. My work sits at the intersection of AI, backend architecture, and full-stack product engineering.
+  AI Engineer building autonomous multi-agent systems and the production platforms that run them, with hands-on experience across the Model Context Protocol (MCP), RAG, and LLM orchestration. Outside of work, I'm independently building a real-time multiplayer mobile game. My work sits at the intersection of AI, backend architecture, and full-stack product engineering.
 </p>
 
 <!-- Social Links -->
@@ -155,7 +155,7 @@ Here is a showcase of my work, from autonomous AI agents and real-time data pipe
 
 ### 🛠️ My Core Tech Stack
 
--   **AI & Agents:** LangChain / LangGraph, Model Context Protocol (MCP), Microsoft Agent Framework, Microsoft Foundry, RAG, Vector Databases (Qdrant, FAISS), Local LLMs (Ollama)
+-   **AI & Agents:** LangChain / LangGraph, Model Context Protocol (MCP), Microsoft Agent Framework, Microsoft Foundry, RAG, Vector Databases (Qdrant, FAISS), Local LLMs (Ollama, llama.cpp, vLLM)
 -   **Backend:** Python (FastAPI), .NET (ABP Framework), Node.js (Fastify), PostgreSQL, Redis, ClickHouse
 -   **Frontend & Mobile:** TypeScript, React.js, Next.js, React Native (Expo)
 -   **DevOps & Cloud:** Docker, CI/CD (GitHub Actions), Prometheus / Grafana, Azure (Azure OpenAI), Cloudflare
