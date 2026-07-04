@@ -6,7 +6,7 @@
 <!-- Introduction -->
 <h1 align="center">Hi, I'm Yunus Emre Gültepe 👋</h1>
 <p align="center">
-  A Software Engineer specializing in the architecture of autonomous AI agents and high-performance distributed systems. I'm passionate about building intelligent, cloud-native applications that solve complex, real-world problems. My work lives at the intersection of AI, DevOps, and real-time data engineering.
+  AI Engineer building autonomous multi-agent systems and the production platforms that run them. At Ayasofyazilim, I lead development on Agent Hub (a multi-agent platform built on the Model Context Protocol) and our document-intelligence platform. Outside of work, I'm building Puzzlebop, a real-time multiplayer mobile game launching on Google Play. My work sits at the intersection of AI, backend architecture, and full-stack product engineering.
 </p>
 
 <!-- Social Links -->
@@ -124,19 +124,6 @@ Here is a showcase of my work, from autonomous AI agents and real-time data pipe
     </tr>
     <tr>
       <td>
-        <strong>Enigma - The AI Wordsmith (Full-Stack LLM Game)</strong>
-        <br />
-        <em>A full-stack, real-time multiplayer word-guessing game powered by a creative LLM, featuring multiple game modes and persistent user accounts.</em>
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-        <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=websockets&logoColor=white" alt="WebSockets"/>
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-      </td>
-    </tr>
-    <tr>
-      <td>
         <a href="https://github.com/Mordris/ai-chatbot-university-Thalassa"><strong>Sakarya University AI Chatbot (RAG System)</strong></a>
         <br />
         <em>A research-oriented RAG chatbot built to provide accurate answers from a large, domain-specific knowledge base.</em>
@@ -168,7 +155,7 @@ Here is a showcase of my work, from autonomous AI agents and real-time data pipe
 
 ### 🛠️ My Core Tech Stack
 
--   **AI & MLOps:** LangChain / LangGraph, Microsoft Agent Framework, RAG, Vector Databases, MLflow, PyTorch, TensorFlow, Scikit-learn
--   **DevOps & Cloud:** Kubernetes, Docker, GitOps (Argo CD), CI/CD (GitHub Actions), Prometheus, Grafana, Terraform (Basics), AWS and Azure services (Foundry, Azure AI)
--   **Data & Streaming:** Redis, Redpanda, Flink, PostgreSQL, Redis, Celery
--   **Backend & Languages:** Python, TypeScript, Dotnet (basics), SQL
+-   **AI & Agents:** LangChain / LangGraph, Model Context Protocol (MCP), Microsoft Agent Framework, Microsoft Foundry, RAG, Vector Databases (Qdrant, FAISS), Local LLMs (Ollama)
+-   **Backend:** Python (FastAPI), .NET (ABP Framework), Node.js (Fastify), PostgreSQL, Redis, ClickHouse
+-   **Frontend & Mobile:** TypeScript, React.js, Next.js, React Native (Expo)
+-   **DevOps & Cloud:** Docker, CI/CD (GitHub Actions), Prometheus / Grafana, Azure (Azure OpenAI), Cloudflare
