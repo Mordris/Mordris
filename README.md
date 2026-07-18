@@ -159,3 +159,4 @@ Here is a showcase of my work, from autonomous AI agents and real-time data pipe
 -   **Backend:** Python (FastAPI), .NET (ABP Framework), Node.js (Fastify), PostgreSQL, Redis, ClickHouse
 -   **Frontend & Mobile:** TypeScript, React.js, Next.js, React Native (Expo)
 -   **DevOps & Cloud:** Docker, CI/CD (GitHub Actions), Prometheus / Grafana, Azure (Azure OpenAI), Cloudflare
+
