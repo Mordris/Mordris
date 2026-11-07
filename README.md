@@ -4,10 +4,34 @@
 </p>
 
 <!-- Introduction -->
-<h1 align="center">Hi, I'm Yunus Emre Gültepe 👋</h1>
-<p align="center">
-  AI Engineer building autonomous multi-agent systems and the production platforms that run them, with hands-on experience across the Model Context Protocol (MCP), RAG, and LLM orchestration. Outside of work, I'm independently building a real-time multiplayer mobile game. My work sits at the intersection of AI, backend architecture, and full-stack product engineering.
-</p>
+<div align="center">
+  <h1>Hi, I'm Yunus Emre Gültepe 👋</h1>
+  
+  <p>
+    <b>AI Engineer</b> building autonomous <b>Multi-Agent Systems</b> and the production platforms that run them.
+  </p>
+  
+  <p>
+    Empowering enterprise solutions with <b>RAG</b>, <b>GraphRAG</b>, <b>Document AI / Intelligent Document Processing</b>, <b>Content Understanding</b>, and the <b>Model Context Protocol (MCP)</b>.<br>
+    Advocate for <b>local-first LLM orchestration</b>, <b>Vector Databases</b>, and empirical <b>Model Evaluation</b>.
+  </p>
+
+  <p>
+    <!-- Core Languages -->
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  </p>
+
+  <p>
+    <!-- 2026 In-Demand AI Stack -->
+    <img src="https://img.shields.io/badge/Multi--Agent_Systems-000000?style=flat-square&logo=openai&logoColor=white" alt="Agents" />
+    <img src="https://img.shields.io/badge/RAG_%7C_GraphRAG-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="RAG" />
+    <img src="https://img.shields.io/badge/LLM_Orchestration-181717?style=flat-square&logo=github&logoColor=white" alt="Orchestration" />
+    <img src="https://img.shields.io/badge/Vector_Databases-00ADD8?style=flat-square&logo=postgresql&logoColor=white" alt="Vector DBs" />
+    <img src="https://img.shields.io/badge/Model_Evaluation-4B32C3?style=flat-square&logo=weightsandbiases&logoColor=white" alt="Evals" />
+  </p>
+</div>
 
 <!-- Social Links -->
 <p align="center">
