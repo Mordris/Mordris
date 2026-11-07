@@ -17,13 +17,6 @@
   </p>
 
   <p>
-    <!-- Core Languages -->
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  </p>
-
-  <p>
     <!-- 2026 In-Demand AI Stack -->
     <img src="https://img.shields.io/badge/Multi--Agent_Systems-000000?style=flat-square&logo=openai&logoColor=white" alt="Agents" />
     <img src="https://img.shields.io/badge/RAG_%7C_GraphRAG-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="RAG" />
